@@ -8,4 +8,5 @@ xgboost
 Flask
 datetime
 dataclasses
+pickle5
 # -e .
